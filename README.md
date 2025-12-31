@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏆 Me Supreme - Habit Tracker
 
 A production-grade habit tracking application with stunning glassmorphism UI and advanced productivity analytics.
@@ -202,3 +203,6 @@ For support, open an issue or contact the development team.
 **Built with ❤️ for productivity enthusiasts**
 
 *"IT'S NOT OVER UNTIL I WIN"* 🏆
+=======
+# Habit-Tracker
+>>>>>>> 15e4bd5bfe096ebe12d9f5a946d60398a1c53d1d
