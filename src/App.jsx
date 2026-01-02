@@ -492,7 +492,7 @@ const MeSupremeTrackerV2 = () => {
               CONSISTENCY -<span className="text-yellow-400 animate-pulse"> - DISCIPLINE</span>
             </p>
             <p className="text-3xl font-bold text-white/90 tracking-wider">
-              THERE IS NO TOMORROW ~ <span className="text-yellow-400 animate-pulse">Abhiram Netha</span>
+              THERE IS NO TOMORROW
             </p>
           </div>
         </div>
